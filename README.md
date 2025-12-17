@@ -38,7 +38,9 @@ npm install
 nodemon app.js
 
 📌 Notes
-AUTHOR --> TUHINSH SHARMA
+
 Make sure MongoDB is running
 
 Update environment variables if required
+
+AUTHOR --> TUHINSH SHARMA
